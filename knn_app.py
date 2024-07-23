@@ -17,7 +17,7 @@ def main():
 
     html_temp = """
     <div style="background-color: #000080; padding: 16px">
-    <h1 style="color: #ffffff; text-align: center;">Streamlit Iris Flower Classifier ML App</h1>
+    <h1 style="color: #ffffff; text-align: center;">Streamlit Iris Flower Classifier using KNN ML App</h1>
     </div>
     """
 
